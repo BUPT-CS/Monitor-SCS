@@ -13,9 +13,9 @@
 * monitorWeb 文件主模块，监控web页面是是否有更新
 
 # 依赖性
-  python第三方库 chardet
+  python第三方库 chardet</br>
   安装方法：sudo easy_insall chardet 
 
 # 注意
-  sendMail中需要添加邮件账户，才能运行主模块monitorWeb。
+  sendMail中需要添加邮件账户，才能运行主模块monitorWeb。</br>
   python发送邮件教程：<a href="http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001386832745198026a685614e7462fb57dbf733cc9f3ad000">SMTP发送邮件 - 廖雪峰的官方网站</a>
